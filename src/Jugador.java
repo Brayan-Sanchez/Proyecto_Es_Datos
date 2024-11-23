@@ -1,4 +1,4 @@
-public class Jugador {
+class Jugador {
     private int riesgoTotal;
 
     public Jugador() {
